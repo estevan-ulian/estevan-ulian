@@ -27,7 +27,7 @@ Sou um desenvolvedor web especializado em React com Next.js. Meu foco é proporc
 Meu objetivo é continuar desenvolvendo soluções de alta qualidade que não apenas atendam às necessidades técnicas, mas também proporcionem uma experiência de usuário excepcional, sempre seguindo os padrões de mercado e boas práticas de desenvolvimento.
 
 ## 📫 Vamos nos conectar!
-LinkedIn - [linkedin.com/in/estevanulian](https://www.linkedin.com/in/estevanulian)
+LinkedIn - [linkedin.com/in/estevanulian](https://www.linkedin.com/in/estevanulian) <br>
 Portfólio - [estevanulian.com](https://estevanulian.com)
 
 Sinta-se à vontade para explorar meus repositórios e contribuir com ideias ou melhorias.
